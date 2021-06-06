@@ -1,0 +1,7 @@
+=begin Solstice 
+
+=head1 Solstice Game 
+
+an adventure game kit.
+
+=end
